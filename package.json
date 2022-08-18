@@ -24,7 +24,8 @@
   "homepage": "https://github.com/Jawidanfar1015/JS-Text-Editor#readme",
   "dependencies": {
     "express": "^4.18.1",
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "webpack": "^5.74.0"
   },
   "devDependencies": {
     "concurrently": "^7.3.0",
