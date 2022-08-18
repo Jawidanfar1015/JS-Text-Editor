@@ -20,9 +20,6 @@ export default class {
       autofocus: true,
       indentUnit: 2,
       tabSize: 2,
-      extrKeys: {
-        'Ctrl-Space': 'autocompletion',
-      }
     });
 
     // When the editor is ready, set the value to whatever is stored in indexeddb.
